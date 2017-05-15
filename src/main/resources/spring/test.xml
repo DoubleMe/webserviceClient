@@ -1,0 +1,2249 @@
+<GetCitiesByCountryResponse xmlns="http://www.webserviceX.NET">
+    <GetCitiesByCountryResult>&lt;NewDataSet>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Quaqtaq Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Hudson Bay, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Hope, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Hamilton Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Saint Hubert Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Hay River, N. W. T.&lt;/City&gt;
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Halifax International Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pond Inlet, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Island Lake, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Stephenville, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Kamloops, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Waterloo Well&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Key Lake&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Schefferville, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Kindersley, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Meadow Lake, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lloydminister, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Kelowna Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Mayo Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Mould Bay, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Moose Jaw, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Fort Mcmurray, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Moosonee, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Chibougamau-Chapais, Que&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Montreal / Mirabel&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Natashquan, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Norway House, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Matagami, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Old Crow Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cold Lake, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>High Level, Alta&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Ottawa Int'L. Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Valcartier Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Prince Albert, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Peace River, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Portage Southport A&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Peterborough Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Prince Rupert, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Powell River Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Fort Chipewyan, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Burns Lake&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Muskoka, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Quebec, Que&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>The Pas, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Red Deer, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Windsor, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Watson Lake, Y. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Yarmouth, N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Kenora, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lethbridge, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Moncton, N. B.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Comox, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Regina, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Thunder Bay, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Grande Prairie, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Yorkton, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>North Battleford, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Gander Int. Airport, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sydney, N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Quesnel Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Resolute, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Roberval, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Red Lake, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Rocky Mountain House, Alta&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Rankin Inlet, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Revelstoke, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sudbury, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sherbrooke, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Suffield Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Stony Rapids Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Saint John, N. B.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Saint Leonard Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Fort Smith, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Summerside Can-Mil&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cape Dorset, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Thompson Weather Office, Man&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Big Trout Lake&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Trenton, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Timmins, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Toronto Island Airport Automated&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Shingle Point, Y. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Tuktoyaktuk&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cape Young Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lady Franklin Point, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Byron Bay Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Montreal / Dorval International, Que&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Jenny Lind Island Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Shepherd Bay, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country&gt;
+        &lt;City>Hall Beach, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Rouyn Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>La Ronge, Sask&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Val D'Or, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Kuujjuaq, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Norman Wells, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Vancouver International Air-Port, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Wiarton, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Petawawa, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Winnipeg Int. Airportman.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Wabush Lake, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Williams Lake, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table&gt;
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cranbrook, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Edmonton Municipal Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Saskatoon, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Medicine Hat, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Fort St John, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sioux Lookout, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Earlton, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Prince George, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Terrace, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>London, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Abbotsford, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Whitehorse, Y. T.&lt;/City>
+        &lt;/Table&gt;
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Wawa, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>North Bay, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Calgary International, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Smithers, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Fort Nelson, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Penticton, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Charlottetown, P. E. I.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Victoria Int. Airportb. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lynn Lake, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Swift Current, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Churchill, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Goose, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>St. John's, Nfld&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Kapuskasing, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Armstrong, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Mont Joli, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Toronto Pearson Int'L. Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Gore Bay, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Yellowknife, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Slave Lake, Alta&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sandspit, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sarnia Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Coral Harbour, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Port Hardy, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Whitecourt, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sept-Iles, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Teslin, Y. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Greenwood, N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Mackenzie, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Churchill Falls&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Fort Mcpherson Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Old Crow Automatic Weather Repor&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Paulatuk Automated Reporting Sta&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Stewart Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Tuktoyaktuk Automated Reporting&lt;/City>
+        &lt;/Table>
+        &lt;Table&gt;
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cape Parry, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Churchill Falls, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Belle River&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Nitinat Lake Meteorological Aero&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Ile Rouge Meteorological Aeronau&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>La Scie, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Amherst, N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Erieau Meteorological Aeronautic&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Amphitrite Point&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Coronach Spc&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Argentia, Nfld&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pam Rocks&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sundre&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>St. Anthony, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Banff, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Killarney Meteorological Aeronau&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Big Creek&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Britt, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Inner Whalebacks&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Caribou Point Meteorological Aer&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Bachelors Island Automated Repor&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Beaverlodge&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Brooks Automatic Weather Reporti&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>B, R&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Longue Point De Mingan, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Beaven Island, N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Port Menier, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>St Anicet&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cartwright, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Saskatoon Kernen&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Berens River CS , Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Atikokan Automated Reporting Sta&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Caribou Island, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pukaskwa&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Clinton, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Carberry Mcdc&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Collingwood Automatic Weather Re&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Barrie, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Clut Lake Automated Reporting St&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Englee Meteorological Aeronautic&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Burwash Automatic Weather Report&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Uranium City, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lac Benoit&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Oliphant Ont&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Daniel's Harbour, Nfld&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Badger, Nfld&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Regina University&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Claresholm Automatic Weather Rep&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Dease Lake B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Chevery, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Twillingate Meteorological Aeron&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Manouane-Est Automated Reporting&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>La Tuque&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>St. Lawrence, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Chute Des Passes&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cop Upper&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Upsala, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pinawa Automatic Weather Reporti&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Estevan Point, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Welcome Island&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Chamouchouane Automatic Weather&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Saint Paul Island Meteorological&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Eastend Cypress, Sask&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Melita, Man&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Grey Islet Meteorological Aerona&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Entrance Island Automatic Weathe&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lac Eon, Que&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>East Point, P. E. I&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Swan River, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country&gt;
+        &lt;City>Ile D'Orleans Automated Reportin&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cape Scott Light&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Eureka, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Ellice River Automated Reporting&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>L'Assomption&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Saturna Island Meteorological Ae&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cape Dyer, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Elk Island National Park&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Melfort Automatic Weather Report&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sartine Island Meteorological Ae&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cardston Automated Reporting Sta&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cree Lake Meteorological Aeronau&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Frelighsburg&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Baie Comeau&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Colville Lake&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Fort Reliance, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Ballenas Island Automatic Weathe&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Goderich Automatic Weather Repor&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Garden River Automatic Weather R&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Grenadier Island&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lagoon City&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Waterton Park Gate&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Gretna, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pemberton Automatic Weather Repo&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Roquemaure&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Iles-De-La-Madelein&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sisters Island Automatic Weather&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Gypsumville&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sparwood Automatic Weather Repor&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Esther 1&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Highvale&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Vancouver Automatic Weather Repo&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Ellerslie&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Hunters Point Mar&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Three Hills&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Holland Rock Automatic Weather R&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Varennes&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Hopedale Meteorological Aeronaut&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Heath Point Meteorological Aeron&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Deschambaults , Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Bernard Harbour&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Haines Junction&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Beauceville&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Comfort Cove, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Mont-Orford&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Isachsen Meteorological Aeronaut&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Fort Providence&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Indian River&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Victoria Beach&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lupin, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Broadview, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Hat Island, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Iskut River&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pointe Noire , Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Primrose Lake&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Charlevoix CS , Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Saint Clothilde Automated Report&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Watrous East Automated Reporting&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Mistook Automated Reporting Stat&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>L'Acadie&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Jasper, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Ste Foy CS , Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Ennadai Lake Meteorological Aero&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Grand Rapids, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Southend Automatic Weather Repor&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Assiniboia Airport Automated Rep&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Upper Rideau Lake&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Herschel Island Automatic Weathe&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Jonquiere Automated Reporting St&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Porter Lake&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Creston Automatic Weather Report&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>St Jovite Automatic Weather Repo&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Jasper Warden Automated Reportin&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Leader Airport Automatic Weather&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Yathkyed Lake Meteorological Aer&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Dubawnt Lake Meteorological Aero&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Bonnard 1, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pelly Bay&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Kejimkujik 1, N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Malahat Automatic Weather Report&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Katatota Island&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Komakuk Beach, Y. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Rockglen, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cape Kakkiviak&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Dease Lake Coastal Station&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Langara, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lac La Biche, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lucky Lake Automatic Weather Rep&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lansdowne House&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Little Chicago&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Liverpool Bay&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Victoria Automatic Weather Repor&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Shilo&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Herbert Island Meteorological Ae&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Nipissing&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Mount Forest, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Alert, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table&gt;
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Waskesiu Lake Automated Reportin&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Longstaff Bluff, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lytton, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Candle Lake&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cathedral Point Meteorological A&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Mary's Harbour, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Miscou Island, N. B.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Maniwaki&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>P. Meadows Coastal Station Autom&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Mcgill Radar Site&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Powder Lake&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Maplecreek Automatic Weather Rep&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Mcinnes Island, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lac La Martre&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Rampart River Automatic Weather&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>St Charles Creek&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Maniwaki, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country&gt;Canada&lt;/Country>
+        &lt;City>Mildred Lake&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Western Island Meteorological Ae&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>S. E. Shoal Meteorological Aeron&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cobourg, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pelly Island Automatic Weather R&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Riviere Du Loup, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Carman U Of M&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Great Duck Island&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Nelson Automatic Weather Reporti&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Satah River Automatic Weather Re&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Nakusp Automatic Weather Reporti&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Nicolet Automatic Weather Report&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Nakiska Ridgetop&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Turtle Mountain&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Haldane River Automatic Weather&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Nechako River&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Nagagami, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Camsell River, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Brevoort Island&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>New Carlisle1&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Normandin&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Onefour Automatic Weather Report&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Ste Agathe Des Mont&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Ivvavik Park Automatic Weather R&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Elbow Marine Aviation Reporting&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Primrose Lake 2&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Henderickson Automatic Weather R&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Beausoleil Island Automated Repo&lt;/City>
+        &lt;/Table>
+        &lt;Table&gt;
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Port Colborne Automated Reportin&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Parc Des Laurentid&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Esquimalt Harbour, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Inukjuak, Que&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pine Island Meteorological Aeron&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Point Escuminac Meteorological A&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Parent, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pickle Lake, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pilot Mound, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Montreal-Est&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Princeton Automatic Weather Repo&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Long Point Meteorological Aerona&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Puntzi Mountain, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Port Alberni, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Toronto Headland&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Rabbit Kettle Automated Reportin&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Valcartier&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lennoxville&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Race Rocks Automatic Weather Rep&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lethbridge Automated Reporting S&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cap Rouge&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Ile Bicquette, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Point Petre , Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lacombe Cda&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Ile Aux Perroquets, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Kindakun Rocks, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Puinte Claveau&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cape Whittle&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Hanbury River Automated Reportin&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cape Race, Nfld&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Red Earth&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pelly Bay 1&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Resolution Island, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Rosetown East, Sask&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Hart Island Meteorological Aeron&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Rose Spit Meteorological Aeronau&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Nicholson Peninsul&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Crowsnest&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Solander Island Meteorological A&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Camrose&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Fourchu Head Meteorological Aero&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Milk River&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cap D'Espoir , Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sable Island, N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Edmonton Stony Plain Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cap Madeleine Meteorological Aer&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cap Chat CS, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sousa Crk Avt&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Simcoe, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Squamish Airport, B. C&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Salmon Arm Automatic Weather Rep&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sheringham Automatic Weather Rep&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Aulvik National Park&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Spiritwood West, Sask&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>St. Stephen, N. B.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>La Pocatiere&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sachs Harbour, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Fisher Branch Marine Aviation Re&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Mc Tavish Automated Reporting St&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Border, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Ethelda Bay&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Robertson Lake Automated Reporti&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Trout Lake&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Beartooth Island&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pointe-Des-Monts , Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cap Tourmente&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Toronto Aes Hq&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Trois Rivieres&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Faro, Y. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cape Hooper, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Truro, N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Summerland Automatic Weather Rep&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Shoal Lake Airport Automated Rep&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Mackar Inlet&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Dewar Lakes, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>La Baie , Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Rouyn&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Bonavista, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Swift Current Automatic Weather&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Broughton Island&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Storm Hills , N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Vegreville Automatic Weather Rep&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Vernon, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Val Marie Southeast, Sask&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Vauxhall Cda&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cypress Hills Park&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country&gt;Canada&lt;/Country>
+        &lt;City>Ste Anne De Bell 1&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Buffalo Narrows, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Brier Island, N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Villeroy Radar Site&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>W Vancouver Automatic Weather Re&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Burlington Piers&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Collins Bay Automatic Weather Re&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Western Head, N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Weyburn Automatic Weather Report&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>White Rock Automatic Weather Rep&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Bonilla Island Meteorological Ae&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Peawanuck Meteorological Aeronau&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Willow Creek&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Wasagaming, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>George Island Meteorological Aer&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Killinek Meteorological Aeronaut&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cove Island Meteorological Aeron&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Port Weller, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Bow Valley&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Onatchiway, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Holberg, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Bow Island&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Helmcken Island Meteorological A&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Pangnirtung&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Back River Meteorological Aerona&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Alexis River Meteorological Aero&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Outlook Pfra&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Rae Lakes&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Victoria University&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cape Kiglapait, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Yoho Park Automatic Weather Repo&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cape Mercy&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Wynyard, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Osoyoos Automatic Weather Report&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Agassiz Automated Reporting Stat&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Port-Aux-Basques, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sagona Island Meteorological Aer&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Grand Etang, N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Amqui , Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Dauphin Coastal Station&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Virginia Falls&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Saglek Bay&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Bratts Lake, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Beauport CS, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Carmacks CS, Y. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Deline , N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Delhi CS, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Deerwood RCS , Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Edmonton Municipal CR10 , Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Edmonton International CS , Alta&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Gimli Harbour CS, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>High Falls , Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Kentville , N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lower Carp Lake , N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Lindberg Landing , N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Morden CDA CS , Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Fort McMurray CS, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>North Mountain , N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>La Ronge , Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Prairie River, Alta&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Qavvik Lake, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Rocky Harbour CS, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Shawinigan CS , Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Spirit River Auto Station, Alta&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>St. John's West CDA CS, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Tuktut Nogait , N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Terra Nova National Park CS, Nfl&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Trail Valley , N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Winnipeg The Forks, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cluff Lake , Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Whitecourt , Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>La Grande Iv, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Komakuk Beach Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Sault Ste Marie, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Shearwater, N. S.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Saint Anthony Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Tofino Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Baie Comeau, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Bella Coola Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Bagotville, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Baker Lake, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Brandon, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Nipawin, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Berens River Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Blanc Sablon, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Cambridge Bay, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Nanaimo Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Castlegar Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Chatham Can-Mil&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Charlo, N. B.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Coppermine, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Blue River, B. C.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Coronation Marine Aviation Repor&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Gagetown Can-Mil&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Clyde, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Dawson, Y. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Princeton Airport&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Deer Lake, Nfld.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Dauphin, Man.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Nain, Nfld&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Edmonton Namao Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Edmonton International, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Estevan, Sask.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Edson, Alta.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Inuvik, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Iqaluit, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Fredericton, N. B.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Fort Simpson, N. W. T.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Kingston, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>La Grande Riviere, Que&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Gimli Industrial, Man&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Gaspe, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Geraldton, Ont.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Iles De La Madeleineque.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Havre St Pierre&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Kuujjuarapik, Que.&lt;/City>
+        &lt;/Table>
+        &lt;Table>
+        &lt;Country>Canada&lt;/Country>
+        &lt;City>Gillam, Man.&lt;/City>
+        &lt;/Table>
+        &lt;/NewDataSet>
+    </GetCitiesByCountryResult>
+</GetCitiesByCountryResponse>
